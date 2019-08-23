@@ -1,0 +1,309 @@
+[INFO] 2019-08-23 20:02:39,658 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:02:39,658 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:02:46,579 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:02:52,762 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:03:11,838 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:03:11,962 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:03:12,705 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:03:17,781 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:03:17,845 com.testproject.util.Log info - Introducing Cisco Cloud Administration (CLDADM) v1.1
+[INFO] 2019-08-23 20:03:17,917 com.testproject.util.Log info - Understanding Cisco Cloud Fundamentals (CLDFND) v1.1
+[INFO] 2019-08-23 20:03:17,978 com.testproject.util.Log info - Designing and Implementing Cisco Network Programmability (NPDESI) v.1.0
+[INFO] 2019-08-23 20:03:18,043 com.testproject.util.Log info - Developing with Cisco Network Programmability (NPDEV) v4.0
+[INFO] 2019-08-23 20:03:18,106 com.testproject.util.Log info - Understanding Cisco Cybersecurity Fundamentals (SECFND) v1.0
+[INFO] 2019-08-23 20:03:18,157 com.testproject.util.Log info - Implementing Cisco Cybersecurity Operations (SECOPS) v1.0
+[INFO] 2019-08-23 20:03:18,239 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:03:18,306 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:03:18,376 com.testproject.util.Log info - Building Core Networks with OSPF, IS-IS, BGP, and MPLS Bootcamp (BCN)
+[INFO] 2019-08-23 20:03:18,439 com.testproject.util.Log info - Digital Network Architecture Implementation Essentials (DNAIE) v1.0
+[INFO] 2019-08-23 20:03:18,515 com.testproject.util.Log info - Cisco Business Architecture Associate (DTBAA) v1.0
+[INFO] 2019-08-23 20:03:18,594 com.testproject.util.Log info - Cisco Customer Success Manager Foundations (DTCSMF) v1.0
+[INFO] 2019-08-23 20:03:18,654 com.testproject.util.Log info - Defining Cisco Wireless LAN Essentials (WLE) v1.1
+[INFO] 2019-08-23 20:03:18,727 com.testproject.util.Log info - ITTest - Search Feature Title21AR
+[INFO] 2019-08-23 20:03:18,793 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:03:18,861 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:03:18,962 com.testproject.util.Log info - Test Course-Gift Cart
+[INFO] 2019-08-23 20:03:19,025 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:03:20,785 com.testproject.util.Log info - Number of products in page 2
+20
+[INFO] 2019-08-23 20:03:25,861 com.testproject.util.Log info - Implementing Cisco Edge Network Security Solutions (SENSS) v1.0
+[INFO] 2019-08-23 20:03:25,915 com.testproject.util.Log info - Implementing Cisco Secure Access Solutions (SISAS) v1.0
+[INFO] 2019-08-23 20:03:25,964 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:03:26,012 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:03:26,060 com.testproject.util.Log info - Jan 2019 UAT Test Pkg - Erik
+[INFO] 2019-08-23 20:03:26,115 com.testproject.util.Log info - SABA 7.5 test package
+[INFO] 2019-08-23 20:03:26,163 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:03:26,210 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:03:26,258 com.testproject.util.Log info - SABA7.5_Test_PackageByArun
+[INFO] 2019-08-23 20:03:26,309 com.testproject.util.Log info - Saba Upgrade 7.5_Feb2019 Release
+[INFO] 2019-08-23 20:03:26,361 com.testproject.util.Log info - Saba7.5_Test_Course_By_Arun
+[INFO] 2019-08-23 20:03:26,408 com.testproject.util.Log info - Test course PL Name change - erik
+[INFO] 2019-08-23 20:03:26,466 com.testproject.util.Log info - Test new Partner Training PL - Erik
+[INFO] 2019-08-23 20:03:26,515 com.testproject.util.Log info - TestCourse 3
+[INFO] 2019-08-23 20:03:26,572 com.testproject.util.Log info - TestCourse-7.5 enhancekey
+[INFO] 2019-08-23 20:03:26,622 com.testproject.util.Log info - TestLearningCatalog8152019
+[INFO] 2019-08-23 20:03:26,672 com.testproject.util.Log info - TestVideoContent
+[INFO] 2019-08-23 20:03:26,727 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:03:26,776 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:03:28,354 com.testproject.util.Log info - Number of products in page 3
+10
+[INFO] 2019-08-23 20:03:33,401 com.testproject.util.Log info - Testing search functionality 22 April
+[INFO] 2019-08-23 20:03:33,474 com.testproject.util.Log info - Testing search functionality 22 April LD
+[INFO] 2019-08-23 20:03:33,532 com.testproject.util.Log info - Testing search functionality 22 April MSDLD
+[INFO] 2019-08-23 20:03:33,598 com.testproject.util.Log info - Testing search functionality 22 April SDMLD
+[INFO] 2019-08-23 20:03:33,640 com.testproject.util.Log info - Testing search functionality swimming 22 April
+[INFO] 2019-08-23 20:03:33,722 com.testproject.util.Log info - Testing search functionality swimming 22 April TMSDMLD
+[INFO] 2019-08-23 20:03:33,780 com.testproject.util.Log info - Testing search functionality swimming 22 April TSDLD
+[INFO] 2019-08-23 20:03:33,835 com.testproject.util.Log info - TestingDBMigration
+[INFO] 2019-08-23 20:03:33,886 com.testproject.util.Log info - TestingSynchJobFromCron
+[INFO] 2019-08-23 20:09:58,164 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:09:58,164 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:10:04,575 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:10:10,896 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:10:22,653 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:10:22,766 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:10:22,889 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:10:27,968 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:10:28,031 com.testproject.util.Log info - Introducing Cisco Cloud Administration (CLDADM) v1.1
+[INFO] 2019-08-23 20:10:28,093 com.testproject.util.Log info - Understanding Cisco Cloud Fundamentals (CLDFND) v1.1
+[INFO] 2019-08-23 20:10:28,156 com.testproject.util.Log info - Designing and Implementing Cisco Network Programmability (NPDESI) v.1.0
+[INFO] 2019-08-23 20:10:28,218 com.testproject.util.Log info - Developing with Cisco Network Programmability (NPDEV) v4.0
+[INFO] 2019-08-23 20:10:28,294 com.testproject.util.Log info - Understanding Cisco Cybersecurity Fundamentals (SECFND) v1.0
+[INFO] 2019-08-23 20:10:28,354 com.testproject.util.Log info - Implementing Cisco Cybersecurity Operations (SECOPS) v1.0
+[INFO] 2019-08-23 20:10:28,416 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:10:28,479 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:10:28,541 com.testproject.util.Log info - Building Core Networks with OSPF, IS-IS, BGP, and MPLS Bootcamp (BCN)
+[INFO] 2019-08-23 20:10:28,603 com.testproject.util.Log info - Digital Network Architecture Implementation Essentials (DNAIE) v1.0
+[INFO] 2019-08-23 20:10:28,666 com.testproject.util.Log info - Cisco Business Architecture Associate (DTBAA) v1.0
+[INFO] 2019-08-23 20:10:28,744 com.testproject.util.Log info - Cisco Customer Success Manager Foundations (DTCSMF) v1.0
+[INFO] 2019-08-23 20:10:28,806 com.testproject.util.Log info - Defining Cisco Wireless LAN Essentials (WLE) v1.1
+[INFO] 2019-08-23 20:10:28,869 com.testproject.util.Log info - ITTest - Search Feature Title21AR
+[INFO] 2019-08-23 20:10:28,931 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:10:28,994 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:10:29,057 com.testproject.util.Log info - Test Course-Gift Cart
+[INFO] 2019-08-23 20:10:29,119 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:10:30,707 com.testproject.util.Log info - Number of products in page 2
+20
+[INFO] 2019-08-23 20:10:35,797 com.testproject.util.Log info - Implementing Cisco Edge Network Security Solutions (SENSS) v1.0
+[INFO] 2019-08-23 20:10:35,843 com.testproject.util.Log info - Implementing Cisco Secure Access Solutions (SISAS) v1.0
+[INFO] 2019-08-23 20:10:35,890 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:10:35,937 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:10:35,984 com.testproject.util.Log info - Jan 2019 UAT Test Pkg - Erik
+[INFO] 2019-08-23 20:10:36,031 com.testproject.util.Log info - SABA 7.5 test package
+[INFO] 2019-08-23 20:10:36,093 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:10:36,140 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:10:36,187 com.testproject.util.Log info - SABA7.5_Test_PackageByArun
+[INFO] 2019-08-23 20:10:36,233 com.testproject.util.Log info - Saba Upgrade 7.5_Feb2019 Release
+[INFO] 2019-08-23 20:10:36,291 com.testproject.util.Log info - Saba7.5_Test_Course_By_Arun
+[INFO] 2019-08-23 20:10:36,339 com.testproject.util.Log info - Test course PL Name change - erik
+[INFO] 2019-08-23 20:10:36,385 com.testproject.util.Log info - Test new Partner Training PL - Erik
+[INFO] 2019-08-23 20:10:36,432 com.testproject.util.Log info - TestCourse 3
+[INFO] 2019-08-23 20:10:36,479 com.testproject.util.Log info - TestCourse-7.5 enhancekey
+[INFO] 2019-08-23 20:10:36,526 com.testproject.util.Log info - TestLearningCatalog8152019
+[INFO] 2019-08-23 20:10:36,573 com.testproject.util.Log info - TestVideoContent
+[INFO] 2019-08-23 20:10:36,635 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:10:36,682 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:10:38,021 com.testproject.util.Log info - Number of products in page 3
+10
+[INFO] 2019-08-23 20:10:43,158 com.testproject.util.Log info - Testing search functionality 22 April
+[INFO] 2019-08-23 20:10:43,205 com.testproject.util.Log info - Testing search functionality 22 April LD
+[INFO] 2019-08-23 20:10:43,252 com.testproject.util.Log info - Testing search functionality 22 April MSDLD
+[INFO] 2019-08-23 20:10:43,314 com.testproject.util.Log info - Testing search functionality 22 April SDMLD
+[INFO] 2019-08-23 20:10:43,361 com.testproject.util.Log info - Testing search functionality swimming 22 April
+[INFO] 2019-08-23 20:10:43,408 com.testproject.util.Log info - Testing search functionality swimming 22 April TMSDMLD
+[INFO] 2019-08-23 20:10:43,455 com.testproject.util.Log info - Testing search functionality swimming 22 April TSDLD
+[INFO] 2019-08-23 20:10:43,501 com.testproject.util.Log info - TestingDBMigration
+[INFO] 2019-08-23 20:10:43,564 com.testproject.util.Log info - TestingSynchJobFromCron
+[INFO] 2019-08-23 20:17:06,310 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:17:06,313 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:17:12,869 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:17:19,115 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:17:32,677 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:17:32,814 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:17:33,256 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:17:38,334 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:17:38,386 com.testproject.util.Log info - Introducing Cisco Cloud Administration (CLDADM) v1.1
+[INFO] 2019-08-23 20:17:38,449 com.testproject.util.Log info - Understanding Cisco Cloud Fundamentals (CLDFND) v1.1
+[INFO] 2019-08-23 20:17:38,511 com.testproject.util.Log info - Designing and Implementing Cisco Network Programmability (NPDESI) v.1.0
+[INFO] 2019-08-23 20:17:38,574 com.testproject.util.Log info - Developing with Cisco Network Programmability (NPDEV) v4.0
+[INFO] 2019-08-23 20:17:38,636 com.testproject.util.Log info - Understanding Cisco Cybersecurity Fundamentals (SECFND) v1.0
+[INFO] 2019-08-23 20:17:38,698 com.testproject.util.Log info - Implementing Cisco Cybersecurity Operations (SECOPS) v1.0
+[INFO] 2019-08-23 20:17:38,761 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:17:38,823 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:17:38,886 com.testproject.util.Log info - Building Core Networks with OSPF, IS-IS, BGP, and MPLS Bootcamp (BCN)
+[INFO] 2019-08-23 20:17:38,964 com.testproject.util.Log info - Digital Network Architecture Implementation Essentials (DNAIE) v1.0
+[INFO] 2019-08-23 20:17:39,026 com.testproject.util.Log info - Cisco Business Architecture Associate (DTBAA) v1.0
+[INFO] 2019-08-23 20:17:39,088 com.testproject.util.Log info - Cisco Customer Success Manager Foundations (DTCSMF) v1.0
+[INFO] 2019-08-23 20:17:39,151 com.testproject.util.Log info - Defining Cisco Wireless LAN Essentials (WLE) v1.1
+[INFO] 2019-08-23 20:17:39,213 com.testproject.util.Log info - ITTest - Search Feature Title21AR
+[INFO] 2019-08-23 20:17:39,284 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:17:39,337 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:17:39,400 com.testproject.util.Log info - Test Course-Gift Cart
+[INFO] 2019-08-23 20:17:39,462 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:17:40,976 com.testproject.util.Log info - Number of products in page 2
+20
+[INFO] 2019-08-23 20:17:46,038 com.testproject.util.Log info - Implementing Cisco Edge Network Security Solutions (SENSS) v1.0
+[INFO] 2019-08-23 20:17:46,100 com.testproject.util.Log info - Implementing Cisco Secure Access Solutions (SISAS) v1.0
+[INFO] 2019-08-23 20:17:46,147 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:17:46,225 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:17:46,296 com.testproject.util.Log info - Jan 2019 UAT Test Pkg - Erik
+[INFO] 2019-08-23 20:17:46,337 com.testproject.util.Log info - SABA 7.5 test package
+[INFO] 2019-08-23 20:17:46,400 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:17:46,478 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:17:46,524 com.testproject.util.Log info - SABA7.5_Test_PackageByArun
+[INFO] 2019-08-23 20:17:46,571 com.testproject.util.Log info - Saba Upgrade 7.5_Feb2019 Release
+[INFO] 2019-08-23 20:17:46,634 com.testproject.util.Log info - Saba7.5_Test_Course_By_Arun
+[INFO] 2019-08-23 20:17:46,680 com.testproject.util.Log info - Test course PL Name change - erik
+[INFO] 2019-08-23 20:17:46,727 com.testproject.util.Log info - Test new Partner Training PL - Erik
+[INFO] 2019-08-23 20:17:46,774 com.testproject.util.Log info - TestCourse 3
+[INFO] 2019-08-23 20:17:46,821 com.testproject.util.Log info - TestCourse-7.5 enhancekey
+[INFO] 2019-08-23 20:17:46,868 com.testproject.util.Log info - TestLearningCatalog8152019
+[INFO] 2019-08-23 20:17:46,930 com.testproject.util.Log info - TestVideoContent
+[INFO] 2019-08-23 20:17:46,977 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:17:47,024 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:17:48,575 com.testproject.util.Log info - Number of products in page 3
+10
+[INFO] 2019-08-23 20:17:53,633 com.testproject.util.Log info - Testing search functionality 22 April
+[INFO] 2019-08-23 20:17:53,679 com.testproject.util.Log info - Testing search functionality 22 April LD
+[INFO] 2019-08-23 20:17:53,726 com.testproject.util.Log info - Testing search functionality 22 April MSDLD
+[INFO] 2019-08-23 20:17:53,773 com.testproject.util.Log info - Testing search functionality 22 April SDMLD
+[INFO] 2019-08-23 20:17:53,820 com.testproject.util.Log info - Testing search functionality swimming 22 April
+[INFO] 2019-08-23 20:17:53,867 com.testproject.util.Log info - Testing search functionality swimming 22 April TMSDMLD
+[INFO] 2019-08-23 20:17:53,913 com.testproject.util.Log info - Testing search functionality swimming 22 April TSDLD
+[INFO] 2019-08-23 20:17:53,960 com.testproject.util.Log info - TestingDBMigration
+[INFO] 2019-08-23 20:17:54,007 com.testproject.util.Log info - TestingSynchJobFromCron
+[INFO] 2019-08-23 20:24:20,094 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:24:20,189 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:24:27,387 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:24:33,695 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:24:44,999 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:24:45,120 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:24:46,572 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:24:51,670 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:28:12,600 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:28:12,609 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:28:18,692 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:28:24,851 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:28:37,133 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:28:37,357 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:28:37,433 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:28:42,527 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:28:42,590 com.testproject.util.Log info - Introducing Cisco Cloud Administration (CLDADM) v1.1
+[INFO] 2019-08-23 20:28:42,652 com.testproject.util.Log info - Understanding Cisco Cloud Fundamentals (CLDFND) v1.1
+[INFO] 2019-08-23 20:28:42,714 com.testproject.util.Log info - Designing and Implementing Cisco Network Programmability (NPDESI) v.1.0
+[INFO] 2019-08-23 20:28:42,777 com.testproject.util.Log info - Developing with Cisco Network Programmability (NPDEV) v4.0
+[INFO] 2019-08-23 20:28:42,839 com.testproject.util.Log info - Understanding Cisco Cybersecurity Fundamentals (SECFND) v1.0
+[INFO] 2019-08-23 20:28:42,902 com.testproject.util.Log info - Implementing Cisco Cybersecurity Operations (SECOPS) v1.0
+[INFO] 2019-08-23 20:28:42,964 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:28:43,026 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:28:43,089 com.testproject.util.Log info - Building Core Networks with OSPF, IS-IS, BGP, and MPLS Bootcamp (BCN)
+[INFO] 2019-08-23 20:28:43,666 com.testproject.util.Log info - Digital Network Architecture Implementation Essentials (DNAIE) v1.0
+[INFO] 2019-08-23 20:28:43,730 com.testproject.util.Log info - Cisco Business Architecture Associate (DTBAA) v1.0
+[INFO] 2019-08-23 20:28:43,792 com.testproject.util.Log info - Cisco Customer Success Manager Foundations (DTCSMF) v1.0
+[INFO] 2019-08-23 20:28:43,855 com.testproject.util.Log info - Defining Cisco Wireless LAN Essentials (WLE) v1.1
+[INFO] 2019-08-23 20:28:43,917 com.testproject.util.Log info - ITTest - Search Feature Title21AR
+[INFO] 2019-08-23 20:28:44,011 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:28:44,073 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:28:44,135 com.testproject.util.Log info - Test Course-Gift Cart
+[INFO] 2019-08-23 20:28:44,198 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:28:46,014 com.testproject.util.Log info - Number of products in page 2
+20
+[INFO] 2019-08-23 20:28:51,089 com.testproject.util.Log info - Implementing Cisco Edge Network Security Solutions (SENSS) v1.0
+[INFO] 2019-08-23 20:28:51,135 com.testproject.util.Log info - Implementing Cisco Secure Access Solutions (SISAS) v1.0
+[INFO] 2019-08-23 20:28:51,182 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:28:51,229 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:28:51,291 com.testproject.util.Log info - Jan 2019 UAT Test Pkg - Erik
+[INFO] 2019-08-23 20:28:51,337 com.testproject.util.Log info - SABA 7.5 test package
+[INFO] 2019-08-23 20:28:51,383 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:28:51,430 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:28:51,493 com.testproject.util.Log info - SABA7.5_Test_PackageByArun
+[INFO] 2019-08-23 20:28:51,539 com.testproject.util.Log info - Saba Upgrade 7.5_Feb2019 Release
+[INFO] 2019-08-23 20:28:51,586 com.testproject.util.Log info - Saba7.5_Test_Course_By_Arun
+[INFO] 2019-08-23 20:28:51,633 com.testproject.util.Log info - Test course PL Name change - erik
+[INFO] 2019-08-23 20:28:51,680 com.testproject.util.Log info - Test new Partner Training PL - Erik
+[INFO] 2019-08-23 20:28:51,727 com.testproject.util.Log info - TestCourse 3
+[INFO] 2019-08-23 20:28:51,836 com.testproject.util.Log info - TestCourse-7.5 enhancekey
+[INFO] 2019-08-23 20:28:51,883 com.testproject.util.Log info - TestLearningCatalog8152019
+[INFO] 2019-08-23 20:28:51,929 com.testproject.util.Log info - TestVideoContent
+[INFO] 2019-08-23 20:28:51,976 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:28:52,023 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:38:18,697 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:38:18,714 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:38:24,866 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:38:30,958 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:38:43,817 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:38:43,982 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:38:44,086 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:38:49,166 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:38:49,229 com.testproject.util.Log info - Introducing Cisco Cloud Administration (CLDADM) v1.1
+[INFO] 2019-08-23 20:38:49,297 com.testproject.util.Log info - Understanding Cisco Cloud Fundamentals (CLDFND) v1.1
+[INFO] 2019-08-23 20:38:49,373 com.testproject.util.Log info - Designing and Implementing Cisco Network Programmability (NPDESI) v.1.0
+[INFO] 2019-08-23 20:38:49,451 com.testproject.util.Log info - Developing with Cisco Network Programmability (NPDEV) v4.0
+[INFO] 2019-08-23 20:38:49,498 com.testproject.util.Log info - Understanding Cisco Cybersecurity Fundamentals (SECFND) v1.0
+[INFO] 2019-08-23 20:38:49,561 com.testproject.util.Log info - Implementing Cisco Cybersecurity Operations (SECOPS) v1.0
+[INFO] 2019-08-23 20:38:49,623 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:38:49,701 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:38:49,748 com.testproject.util.Log info - Building Core Networks with OSPF, IS-IS, BGP, and MPLS Bootcamp (BCN)
+[INFO] 2019-08-23 20:38:49,810 com.testproject.util.Log info - Digital Network Architecture Implementation Essentials (DNAIE) v1.0
+[INFO] 2019-08-23 20:38:49,873 com.testproject.util.Log info - Cisco Business Architecture Associate (DTBAA) v1.0
+[INFO] 2019-08-23 20:38:49,935 com.testproject.util.Log info - Cisco Customer Success Manager Foundations (DTCSMF) v1.0
+[INFO] 2019-08-23 20:38:49,997 com.testproject.util.Log info - Defining Cisco Wireless LAN Essentials (WLE) v1.1
+[INFO] 2019-08-23 20:38:50,060 com.testproject.util.Log info - ITTest - Search Feature Title21AR
+[INFO] 2019-08-23 20:38:50,122 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:38:50,186 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:38:50,260 com.testproject.util.Log info - Test Course-Gift Cart
+[INFO] 2019-08-23 20:38:50,322 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:38:51,372 com.testproject.util.Log info - Number of products in page 2
+20
+[INFO] 2019-08-23 20:38:56,450 com.testproject.util.Log info - Implementing Cisco Edge Network Security Solutions (SENSS) v1.0
+[INFO] 2019-08-23 20:38:56,497 com.testproject.util.Log info - Implementing Cisco Secure Access Solutions (SISAS) v1.0
+[INFO] 2019-08-23 20:38:56,543 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:38:56,590 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:38:56,637 com.testproject.util.Log info - Jan 2019 UAT Test Pkg - Erik
+[INFO] 2019-08-23 20:38:56,699 com.testproject.util.Log info - SABA 7.5 test package
+[INFO] 2019-08-23 20:38:56,746 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:38:56,793 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:38:56,840 com.testproject.util.Log info - SABA7.5_Test_PackageByArun
+[INFO] 2019-08-23 20:38:56,887 com.testproject.util.Log info - Saba Upgrade 7.5_Feb2019 Release
+[INFO] 2019-08-23 20:38:56,933 com.testproject.util.Log info - Saba7.5_Test_Course_By_Arun
+[INFO] 2019-08-23 20:38:57,011 com.testproject.util.Log info - Test course PL Name change - erik
+[INFO] 2019-08-23 20:38:57,058 com.testproject.util.Log info - Test new Partner Training PL - Erik
+[INFO] 2019-08-23 20:38:57,105 com.testproject.util.Log info - TestCourse 3
+[INFO] 2019-08-23 20:38:57,167 com.testproject.util.Log info - TestCourse-7.5 enhancekey
+[INFO] 2019-08-23 20:38:57,214 com.testproject.util.Log info - TestLearningCatalog8152019
+[INFO] 2019-08-23 20:38:57,277 com.testproject.util.Log info - TestVideoContent
+[INFO] 2019-08-23 20:38:57,325 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:38:57,372 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:38:58,907 com.testproject.util.Log info - Number of products in page 3
+10
+[INFO] 2019-08-23 20:39:03,966 com.testproject.util.Log info - Testing search functionality 22 April
+[INFO] 2019-08-23 20:39:04,029 com.testproject.util.Log info - Testing search functionality 22 April LD
+[INFO] 2019-08-23 20:39:04,075 com.testproject.util.Log info - Testing search functionality 22 April MSDLD
+[INFO] 2019-08-23 20:39:04,122 com.testproject.util.Log info - Testing search functionality 22 April SDMLD
+[INFO] 2019-08-23 20:39:04,169 com.testproject.util.Log info - Testing search functionality swimming 22 April
+[INFO] 2019-08-23 20:39:04,216 com.testproject.util.Log info - Testing search functionality swimming 22 April TMSDMLD
+[INFO] 2019-08-23 20:39:04,276 com.testproject.util.Log info - Testing search functionality swimming 22 April TSDLD
+[INFO] 2019-08-23 20:39:04,322 com.testproject.util.Log info - TestingDBMigration
+[INFO] 2019-08-23 20:39:04,368 com.testproject.util.Log info - TestingSynchJobFromCron
+[INFO] 2019-08-23 20:41:31,784 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:41:31,787 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:41:37,898 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:41:44,016 com.testproject.util.Log info - Verifying the All training Menu

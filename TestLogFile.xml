@@ -1,0 +1,61 @@
+[INFO] 2019-08-23 20:56:43,052 com.testproject.util.Log info - Home Age Title: The Cisco Learning Network Store
+[INFO] 2019-08-23 20:56:43,052 com.testproject.util.Log info - Verifying the Certificate Traning Menu
+[INFO] 2019-08-23 20:56:49,228 com.testproject.util.Log info - Verifying the Technology Training Menu
+[INFO] 2019-08-23 20:56:55,431 com.testproject.util.Log info - Verifying the All training Menu
+[INFO] 2019-08-23 20:57:06,934 com.testproject.util.Log info - Traning Name:
+On Demand E-Learning
+[INFO] 2019-08-23 20:57:07,062 com.testproject.util.Log info - Descrition of the training:
+Enhance your understanding of Cisco technologies and products with e-learning offerings from Learning@Cisco and Cisco authorized learning partners. E-learning courses focus on a variety of Cisco technologies to prepare you for Cisco certification exams, and to gain Cisco product knowledge. The e-learning offerings are made to be interactive and
+[INFO] 2019-08-23 20:57:07,140 com.testproject.util.Log info - Number of products in page 1
+20
+[INFO] 2019-08-23 20:57:12,287 com.testproject.util.Log info - Catalog Sync
+[INFO] 2019-08-23 20:57:12,380 com.testproject.util.Log info - Introducing Cisco Cloud Administration (CLDADM) v1.1
+[INFO] 2019-08-23 20:57:12,458 com.testproject.util.Log info - Understanding Cisco Cloud Fundamentals (CLDFND) v1.1
+[INFO] 2019-08-23 20:57:12,552 com.testproject.util.Log info - Designing and Implementing Cisco Network Programmability (NPDESI) v.1.0
+[INFO] 2019-08-23 20:57:12,630 com.testproject.util.Log info - Developing with Cisco Network Programmability (NPDEV) v4.0
+[INFO] 2019-08-23 20:57:12,708 com.testproject.util.Log info - Understanding Cisco Cybersecurity Fundamentals (SECFND) v1.0
+[INFO] 2019-08-23 20:57:12,786 com.testproject.util.Log info - Implementing Cisco Cybersecurity Operations (SECOPS) v1.0
+[INFO] 2019-08-23 20:57:12,848 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:57:12,942 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:57:13,020 com.testproject.util.Log info - Building Core Networks with OSPF, IS-IS, BGP, and MPLS Bootcamp (BCN)
+[INFO] 2019-08-23 20:57:13,098 com.testproject.util.Log info - Digital Network Architecture Implementation Essentials (DNAIE) v1.0
+[INFO] 2019-08-23 20:57:13,176 com.testproject.util.Log info - Cisco Business Architecture Associate (DTBAA) v1.0
+[INFO] 2019-08-23 20:57:13,239 com.testproject.util.Log info - Cisco Customer Success Manager Foundations (DTCSMF) v1.0
+[INFO] 2019-08-23 20:57:13,320 com.testproject.util.Log info - Defining Cisco Wireless LAN Essentials (WLE) v1.1
+[INFO] 2019-08-23 20:57:13,387 com.testproject.util.Log info - ITTest - Search Feature Title21AR
+[INFO] 2019-08-23 20:57:13,465 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:57:13,574 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:57:13,652 com.testproject.util.Log info - Test Course-Gift Cart
+[INFO] 2019-08-23 20:57:13,979 com.testproject.util.Log info - TestCourseForSearch
+[INFO] 2019-08-23 20:57:15,970 com.testproject.util.Log info - Number of products in page 2
+20
+[INFO] 2019-08-23 20:57:21,121 com.testproject.util.Log info - Implementing Cisco Edge Network Security Solutions (SENSS) v1.0
+[INFO] 2019-08-23 20:57:21,199 com.testproject.util.Log info - Implementing Cisco Secure Access Solutions (SISAS) v1.0
+[INFO] 2019-08-23 20:57:21,274 com.testproject.util.Log info - Implementing Cisco Secure Mobility Solutions (SIMOS) v1.0
+[INFO] 2019-08-23 20:57:21,326 com.testproject.util.Log info - Implementing Cisco Threat Control Solutions (SITCS) v1.5
+[INFO] 2019-08-23 20:57:21,375 com.testproject.util.Log info - Jan 2019 UAT Test Pkg - Erik
+[INFO] 2019-08-23 20:57:21,437 com.testproject.util.Log info - SABA 7.5 test package
+[INFO] 2019-08-23 20:57:21,500 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:57:21,562 com.testproject.util.Log info - SABA7.5Deeplinktest
+[INFO] 2019-08-23 20:57:21,609 com.testproject.util.Log info - SABA7.5_Test_PackageByArun
+[INFO] 2019-08-23 20:57:21,687 com.testproject.util.Log info - Saba Upgrade 7.5_Feb2019 Release
+[INFO] 2019-08-23 20:57:21,749 com.testproject.util.Log info - Saba7.5_Test_Course_By_Arun
+[INFO] 2019-08-23 20:57:21,812 com.testproject.util.Log info - Test course PL Name change - erik
+[INFO] 2019-08-23 20:57:21,874 com.testproject.util.Log info - Test new Partner Training PL - Erik
+[INFO] 2019-08-23 20:57:21,936 com.testproject.util.Log info - TestCourse 3
+[INFO] 2019-08-23 20:57:21,999 com.testproject.util.Log info - TestCourse-7.5 enhancekey
+[INFO] 2019-08-23 20:57:22,062 com.testproject.util.Log info - TestLearningCatalog8152019
+[INFO] 2019-08-23 20:57:22,125 com.testproject.util.Log info - TestVideoContent
+[INFO] 2019-08-23 20:57:22,187 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:57:22,254 com.testproject.util.Log info - Testing For Product Title By Arun
+[INFO] 2019-08-23 20:57:23,897 com.testproject.util.Log info - Number of products in page 3
+10
+[INFO] 2019-08-23 20:57:29,032 com.testproject.util.Log info - Testing search functionality 22 April
+[INFO] 2019-08-23 20:57:29,156 com.testproject.util.Log info - Testing search functionality 22 April LD
+[INFO] 2019-08-23 20:57:29,266 com.testproject.util.Log info - Testing search functionality 22 April MSDLD
+[INFO] 2019-08-23 20:57:29,341 com.testproject.util.Log info - Testing search functionality 22 April SDMLD
+[INFO] 2019-08-23 20:57:29,404 com.testproject.util.Log info - Testing search functionality swimming 22 April
+[INFO] 2019-08-23 20:57:29,482 com.testproject.util.Log info - Testing search functionality swimming 22 April TMSDMLD
+[INFO] 2019-08-23 20:57:29,544 com.testproject.util.Log info - Testing search functionality swimming 22 April TSDLD
+[INFO] 2019-08-23 20:57:29,591 com.testproject.util.Log info - TestingDBMigration
+[INFO] 2019-08-23 20:57:29,638 com.testproject.util.Log info - TestingSynchJobFromCron
